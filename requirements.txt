@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+deepface
+transformers
+torch
+requests
+google-api-python-client
