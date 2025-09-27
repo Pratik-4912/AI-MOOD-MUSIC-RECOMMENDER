@@ -67,9 +67,3 @@ python -m streamlit run app.py
 
 ---
 
-## 🎯 Impact
-
-This project demonstrates a **full-stack AI application** combining **NLP, Computer Vision, and API integration**. Perfect for **portfolio, interviews, or as a fun web app for users**.
-
----
-
